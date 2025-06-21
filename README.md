@@ -24,6 +24,6 @@ Power BI dashboard includes:
 - Model accuracy comparison
 
 ## 📂 Project Structure
-/data → Dataset files
-/notebooks → Jupyter notebooks for each phase
-/visualizations → PNGs and Power BI screenshots
+- data → Dataset files
+- notebooks → Jupyter notebooks for each phase
+- visualizations → PNGs and Power BI screenshots
